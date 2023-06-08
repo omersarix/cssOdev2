@@ -1,0 +1,48 @@
+.box{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center  ;
+}
+
+.arama{
+    width: 300px;
+    
+}
+.arama_bolumu{
+    background-color: #EEEEEE;
+}
+.slider{
+    width: 90%;
+    text-align: center;
+    margin-top: 5px;
+    
+}
+.slider{
+    width: 100%;
+    float: left;
+}
+.bir{
+    width: 300px;
+    height: 90px;
+    float: left;
+    background-color: #7EE5DA;
+    
+}
+.iki{
+    height: 90px;
+    width: 294px;
+    float: left;
+    background-color: #70CCC2;
+    margin-left: 3px;
+}
+.uc{
+    height: 90px;
+    background-color: #62B3AA;
+    width: 300px;
+    float: left;
+    margin-left: 3px;
+}
+.clear{
+    clear: both;
+}
